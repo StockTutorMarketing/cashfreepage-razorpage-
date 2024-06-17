@@ -88,7 +88,7 @@ const BottomBar = () => {
                       fontWeight={400}
                       color={"whitesmoke"}
                     >
-                      16th June, 4:00 PM - 7:00 PM
+                      23 June, 1:00 PM - 4:00 PM
                     </Text>
                   </Stack>
                 </Stack>

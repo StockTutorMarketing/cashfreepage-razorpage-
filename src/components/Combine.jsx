@@ -112,7 +112,7 @@ const Combine = () => {
                   alignItems={"center"}
                 >
                   <FaCalendar />
-                  <Box>16th June, 2024</Box>
+                  <Box>23 June, 2024</Box>
                 </Flex>
 
                 <Flex
@@ -125,7 +125,7 @@ const Combine = () => {
                   width={{ base: "100%", sm: "100%", md: "100%", lg: "100%" }}
                 >
                   <FaClock />
-                  <Box>4:00 PM - 7:00 PM</Box>
+                  <Box>1:00 PM - 4:00 PM</Box>
                 </Flex>
               </SimpleGrid>
 

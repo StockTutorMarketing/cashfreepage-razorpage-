@@ -9,7 +9,7 @@ function Countdown() {
 
   useEffect(() => {
     const intervalId = setInterval(() => {
-      const targetDate = new Date('2024-06-16T16:00:00').getTime();
+      const targetDate = new Date('2024-06-23T13:00:00').getTime();
       const now = new Date().getTime();
       const difference = targetDate - now;
 
