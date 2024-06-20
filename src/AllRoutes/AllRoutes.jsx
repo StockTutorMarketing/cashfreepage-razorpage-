@@ -18,17 +18,17 @@ const AllRoutes = () => {
         <>
             <Routes>
                 <Route path='/' element={<Home />} />
-                <Route path="/payment" element={<Payment />} />
+                {/* <Route path="/payment" element={<Payment />} /> */}
                 <Route path='/success' element={<Success />} />
-                <Route path='/failure' element={<Failure />} />
-                <Route path='/reason:reasonid' element={<Reason />} />
-                <Route path='/privacy' element={<PrivacyPolicy/>}/>
-                <Route path='/termscondition' element={<TermsConditions/>}/>
-                <Route path='/refund' element={<Refund/>}/>
-                <Route path='/ContactUs' element={<ContactUs/>}/>
+                {/* <Route path='/failure' element={<Failure />} /> */}
+                {/* <Route path='/reason:reasonid' element={<Reason />} /> */}
+                {/* <Route path='/privacy' element={<PrivacyPolicy/>}/> */}
+                {/* <Route path='/termscondition' element={<TermsConditions/>}/> */}
+                {/* <Route path='/refund' element={<Refund/>}/> */}
+                {/* <Route path='/ContactUs' element={<ContactUs/>}/> */}
             </Routes>
-            <Footer/>
-            <BottomBar/>
+            {/* <Footer/> */}
+            {/* <BottomBar/> */}
         </>
     )
 }
