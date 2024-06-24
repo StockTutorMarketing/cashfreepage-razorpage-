@@ -2,15 +2,15 @@ import React from 'react'
 import { Routes, Route } from "react-router-dom"
 import Home from '../Pages/Home'
 import Success from '../Pages/Success'
-import Failure from '../Pages/Failure'
-import Reason from "../Pages/Reason"
-import Payment from '../Pages/Payment'
-import PrivacyPolicy from '../Pages/privacy'
-import Footer from '../components/Footter'
-import BottomBar from '../components/BottomBar'
-import TermsConditions from '../Pages/termscondition'
-import Refund from '../Pages/refund'
-import ContactUs from '../Pages/Contactus'
+// import Failure from '../Pages/Failure'
+// import Reason from "../Pages/Reason"
+// import Payment from '../Pages/Payment'
+// import PrivacyPolicy from '../Pages/privacy'
+// import Footer from '../components/Footter'
+// import BottomBar from '../components/BottomBar'
+// import TermsConditions from '../Pages/termscondition'
+// import Refund from '../Pages/refund'
+// import ContactUs from '../Pages/Contactus'
 
 
 const AllRoutes = () => {

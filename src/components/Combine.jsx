@@ -112,7 +112,7 @@ const Combine = () => {
                   alignItems={"center"}
                 >
                   <FaCalendar />
-                  <Box>23 June, 2024</Box>
+                  <Box>30 June, 2024</Box>
                 </Flex>
 
                 <Flex
